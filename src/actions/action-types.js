@@ -1,0 +1,12 @@
+export const CLICK1 = 1;
+export const CLICK2 = 2;
+export const CLICK3 = 3;
+export const CLICK4 = 4;
+export const CLICK5 = 5;
+export const LINK1  = "LINK1";
+export const LINK2  = "LINK2";
+export const LINK3  = "LINK3";
+export const LINK4  = "LINK4";
+export const LINK5  = "LINK5";
+export const LINK6  = "LINK6";
+export const LINK7  = "LINK7";

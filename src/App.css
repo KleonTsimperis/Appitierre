@@ -30,3 +30,29 @@
     transform: rotate(360deg);
   }
 }
+
+.active {
+  font: 500 1.1rem Arial;
+  cursor: pointer;
+  color:#ff21cb;
+  transition: 1s
+}
+
+.inactive {
+  font: 1rem Arial;
+  transition: 1s;
+}
+
+li {
+  text-align: left;
+}
+
+.flex-container {
+  display:flex;
+  flex-flow: column wrap;
+  padding-left: 20px;
+}
+
+.link {
+  color:#ff21cb;
+}
